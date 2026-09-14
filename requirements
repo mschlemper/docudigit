@@ -1,1 +1,11 @@
+# Conteúdo para o arquivo requirements.txt
 
+scikit-learn==1.2.2
+pandas==1.5.3
+matplotlib==3.7.1
+numpy==1.22.4
+seaborn==0.12.2
+Pillow==9.4.0
+# Caso utilize tensorflow ou keras, adicione aqui (não foram diretamente utilizados neste notebook)
+# tensorflow==X.X.X
+# keras==X.X.X
