@@ -2,8 +2,8 @@
 
 ## Mini-Projeto Avaliativo - Módulo 2 - Semana 05
 
-### Aluno: [Seu Nome/Nome do Grupo]
-### Professor: [Nome do Professor, se aplicável]
+### Aluno: Marco Aurelio Schlemper 
+### Professor: Felipe
 
 ---
 
