@@ -1,10 +1,8 @@
-```markdown
 # DocuDigit: Classificador de Dígitos Manuscritos com Análise Preditiva
 
 ## Mini-Projeto Avaliativo - Módulo 2 - Semana 05
 
-### Aluno: [Seu Nome/Nome do Grupo]
-### Professor: [Nome do Professor, se aplicável]
+### Aluno: Marco Aurelio Schlemper
 
 ---
 
@@ -89,13 +87,13 @@ Para executar este pipeline de Ciência de Dados, siga os passos abaixo:
 
 O projeto DocuDigit pode ser expandido e aprimorado de diversas formas:
 
-*   Ajuste Fino de Hiperparâmetros:** Utilizar técnicas mais avançadas como `GridSearchCV` ou `RandomizedSearchCV` para otimização sistemática dos hiperparâmetros dos modelos, potencialmente explorando uma gama maior de valores e diferentes kernels para o SVM, e arquiteturas de camadas ocultas para o MLP.
-*   Novos Modelos:** Explorar modelos mais avançados de Deep Learning, como Redes Neurais Convolucionais (CNNs), que são especificamente projetadas para dados de imagem e geralmente superam modelos baseados em MLP para o MNIST.
-*   Aumento de Dados (Data Augmentation):** Aplicar transformações como rotação, translação, zoom e distorção nas imagens de treinamento para aumentar a robustez do modelo e melhorar sua generalização.
-*   Detecção de OOD:** Implementar algoritmos específicos para detecção de dados fora de distribuição, permitindo que o modelo identifique e sinalize quando uma entrada é desconhecida, em vez de fazer uma previsão "falsa certeza".
-*   Interface Gráfica:** Desenvolver uma interface gráfica simples (e.g., com `Streamlit`, `Flask` ou `Django`) para permitir que usuários carreguem suas próprias imagens de dígitos e obtenham previsões em tempo real.
-*   Exportação do Modelo:** Salvar o modelo treinado em um formato persistente (e.g., `pickle`, `joblib` ou `ONNX`) para que possa ser facilmente implantado em outras aplicações.
-*   TensorBoard / Ferramentas de Visualização:** Integrar ferramentas como TensorBoard para uma visualização mais rica do processo de treinamento de redes neurais (ex: visualização de gráficos de perda, pesos, etc.).
+*   Ajuste Fino de Hiperparâmetros: Utilizar técnicas mais avançadas como `GridSearchCV` ou `RandomizedSearchCV` para otimização sistemática dos hiperparâmetros dos modelos, potencialmente explorando uma gama maior de valores e diferentes kernels para o SVM, e arquiteturas de camadas ocultas para o MLP.
+*   Novos Modelos: Explorar modelos mais avançados de Deep Learning, como Redes Neurais Convolucionais (CNNs), que são especificamente projetadas para dados de imagem e geralmente superam modelos baseados em MLP para o MNIST.
+*   Aumento de Dados (Data Augmentation): Aplicar transformações como rotação, translação, zoom e distorção nas imagens de treinamento para aumentar a robustez do modelo e melhorar sua generalização.
+*   Detecção de OOD: Implementar algoritmos específicos para detecção de dados fora de distribuição, permitindo que o modelo identifique e sinalize quando uma entrada é desconhecida, em vez de fazer uma previsão "falsa certeza".
+*   Interface Gráfica: Desenvolver uma interface gráfica simples (e.g., com `Streamlit`, `Flask` ou `Django`) para permitir que usuários carreguem suas próprias imagens de dígitos e obtenham previsões em tempo real.
+*   Exportação do Modelo: Salvar o modelo treinado em um formato persistente (e.g., `pickle`, `joblib` ou `ONNX`) para que possa ser facilmente implantado em outras aplicações.
+*   TensorBoard / Ferramentas de Visualização: Integrar ferramentas como TensorBoard para uma visualização mais rica do processo de treinamento de redes neurais (ex: visualização de gráficos de perda, pesos, etc.).
 
 ---
 
