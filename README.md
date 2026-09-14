@@ -3,7 +3,6 @@
 ## Mini-Projeto Avaliativo - Módulo 2 - Semana 05
 
 ### Aluno: Marco Aurelio Schlemper 
-### Professor: Felipe
 
 ---
 
